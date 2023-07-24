@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Nastya 
 
-I'm a designer by education 🎨, but when I discovered programming, I couldn't stop coding anymore!  
+I'm a designer by education 🎨, but when I discovered programming, I can't stop coding anymore!  
 Currently, I'm engaged in Java and Spring development 👩‍💻
 
 ### Connect with me
